@@ -1,4 +1,3 @@
-````md
 # Athena Online School
 
 <div align="center">
